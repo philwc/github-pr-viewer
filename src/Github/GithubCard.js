@@ -90,7 +90,7 @@ class GithubCard extends React.Component {
       &nbsp;{this.props.repo.owner}/{this.props.repo.name}
        </span>;
     if (repoLoaded && repo) {
-      title = <a className='text-muted' href={repo.html_url} target="_blank">
+      title = <a className='text-muted' href={repo.html_url} target="_blank" rel="noopener noreferrer">
         {title}
       </a>;
     }
@@ -104,7 +104,7 @@ class GithubCard extends React.Component {
                 {title}
               </Col>
               <Col className="col-1">
-                <a className='text-muted pull-right' onClick={this.removeRepo.bind(this)}>
+                <a className='text-muted pull-right' onClick={this.removeRepo.bind(this)} href="#">
                   <FontAwesomeIcon icon={faTimes}/>
                 </a>
               </Col>

@@ -27,7 +27,7 @@ class PRTable extends React.Component {
 
       return <tr key={pull.id}>
         <td>
-          <a color='primary' href={pull.html_url} target='_blank'>#{pull.number} - {pull.title}</a>
+          <a color='primary' href={pull.html_url} target='_blank' rel="noopener noreferrer">#{pull.number} - {pull.title}</a>
         </td>
         <td>
           <img src={pull.user.avatar_url} style={{width: '25px'}}
