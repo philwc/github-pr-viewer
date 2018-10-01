@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, CardBody, CardTitle, CardText, Row, Col } from 'mdbreact';
+import { Card, CardBody, CardTitle, CardText, Row, Col, Button } from 'mdbreact';
 import PRTable from './PRTable';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faSpinner, faTimes } from '@fortawesome/free-solid-svg-icons';
@@ -104,9 +104,9 @@ class GithubCard extends React.Component {
                 {title}
               </Col>
               <Col className="col-1">
-                <a className='text-muted pull-right' onClick={this.removeRepo.bind(this)} href="#">
+                <button className='btn btn-link text-muted m-0 p-0' onClick={this.removeRepo.bind(this)}>
                   <FontAwesomeIcon icon={faTimes}/>
-                </a>
+                </button>
               </Col>
             </Row>
 
