@@ -29,7 +29,7 @@ class AppNavbar extends React.Component {
 
     return (
       <Navbar style={bgPink} dark expand="md" scrolling fixed="top">
-        <NavbarBrand href="">
+        <NavbarBrand href="/github-pr-viewer">
           <strong>Github PR Viewer</strong>
         </NavbarBrand>
         <NavbarToggler onClick={this.onClick}/>
