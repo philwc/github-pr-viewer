@@ -1,15 +1,15 @@
 {
-  "main.js": "/github-pr-viewer/static/js/main.551b5bc9.chunk.js",
-  "main.js.map": "/github-pr-viewer/static/js/main.551b5bc9.chunk.js.map",
+  "main.js": "/github-pr-viewer/static/js/main.b679656c.chunk.js",
+  "main.js.map": "/github-pr-viewer/static/js/main.b679656c.chunk.js.map",
   "static/css/1.c46bfed4.chunk.css": "/github-pr-viewer/static/css/1.c46bfed4.chunk.css",
   "static/js/1.6d5fa4b2.chunk.js": "/github-pr-viewer/static/js/1.6d5fa4b2.chunk.js",
   "static/js/1.6d5fa4b2.chunk.js.map": "/github-pr-viewer/static/js/1.6d5fa4b2.chunk.js.map",
   "runtime~main.js": "/github-pr-viewer/static/js/runtime~main.8bfc73fe.js",
   "runtime~main.js.map": "/github-pr-viewer/static/js/runtime~main.8bfc73fe.js.map",
-  "static/media/mdb.css": "/github-pr-viewer/static/media/arrow_right.8ef6a08c.svg",
-  "static/media/font-awesome.min.css": "/github-pr-viewer/static/media/fontawesome-webfont.af7ae505.woff2",
+  "static/media/mdb.css": "/github-pr-viewer/static/media/Roboto-Bold.e31fcf18.ttf",
+  "static/media/font-awesome.min.css": "/github-pr-viewer/static/media/fontawesome-webfont.fee66e71.woff",
   "static/css/1.c46bfed4.chunk.css.map": "/github-pr-viewer/static/css/1.c46bfed4.chunk.css.map",
   "index.html": "/github-pr-viewer/index.html",
-  "precache-manifest.6c7d79443caeb04416e9c7e5b27d15ab.js": "/github-pr-viewer/precache-manifest.6c7d79443caeb04416e9c7e5b27d15ab.js",
+  "precache-manifest.42d087a5beb9c8741bbb8be280897325.js": "/github-pr-viewer/precache-manifest.42d087a5beb9c8741bbb8be280897325.js",
   "service-worker.js": "/github-pr-viewer/service-worker.js"
 }
