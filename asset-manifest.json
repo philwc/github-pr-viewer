@@ -1,15 +1,15 @@
 {
-  "main.js": "/github-pr-viewer/static/js/main.182b0b66.chunk.js",
-  "main.js.map": "/github-pr-viewer/static/js/main.182b0b66.chunk.js.map",
+  "main.js": "/github-pr-viewer/static/js/main.6cc10da4.chunk.js",
+  "main.js.map": "/github-pr-viewer/static/js/main.6cc10da4.chunk.js.map",
   "static/css/1.6fedd9ff.chunk.css": "/github-pr-viewer/static/css/1.6fedd9ff.chunk.css",
-  "static/js/1.f5bdd041.chunk.js": "/github-pr-viewer/static/js/1.f5bdd041.chunk.js",
-  "static/js/1.f5bdd041.chunk.js.map": "/github-pr-viewer/static/js/1.f5bdd041.chunk.js.map",
+  "static/js/1.23d38ee2.chunk.js": "/github-pr-viewer/static/js/1.23d38ee2.chunk.js",
+  "static/js/1.23d38ee2.chunk.js.map": "/github-pr-viewer/static/js/1.23d38ee2.chunk.js.map",
   "runtime~main.js": "/github-pr-viewer/static/js/runtime~main.8bfc73fe.js",
   "runtime~main.js.map": "/github-pr-viewer/static/js/runtime~main.8bfc73fe.js.map",
-  "static/media/mdb.css": "/github-pr-viewer/static/media/arrow_right.8ef6a08c.svg",
-  "static/media/font-awesome.min.css": "/github-pr-viewer/static/media/fontawesome-webfont.af7ae505.woff2",
+  "static/media/mdb.css": "/github-pr-viewer/static/media/Roboto-Bold.e31fcf18.ttf",
+  "static/media/font-awesome.min.css": "/github-pr-viewer/static/media/fontawesome-webfont.674f50d2.eot",
   "static/css/1.6fedd9ff.chunk.css.map": "/github-pr-viewer/static/css/1.6fedd9ff.chunk.css.map",
   "index.html": "/github-pr-viewer/index.html",
-  "precache-manifest.7d3e682c855d46707f0ed7015862b38d.js": "/github-pr-viewer/precache-manifest.7d3e682c855d46707f0ed7015862b38d.js",
+  "precache-manifest.819611cd890abe2fe90ae86ae84bf687.js": "/github-pr-viewer/precache-manifest.819611cd890abe2fe90ae86ae84bf687.js",
   "service-worker.js": "/github-pr-viewer/service-worker.js"
 }
