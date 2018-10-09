@@ -106,12 +106,12 @@ class GithubCard extends React.Component {
     let refreshIcon;
 
     if (pullsLoaded && repoLoaded) {
-      refreshIcon = <button className='btn btn-link text-muted ml-2 m-0 p-0' onClick={this.removeRepo.bind(this)}>
-        <FontAwesomeIcon icon={faTimes}/>
+      refreshIcon = <button className='btn btn-link text-muted m-0 p-0' onClick={this.refresh.bind(this)}>
+        <FontAwesomeIcon icon={faSync}/>
       </button>;
     } else {
-      refreshIcon = <button className='btn btn-link text-muted ml-2 m-0 p-0' onClick={this.removeRepo.bind(this)}>
-        <FontAwesomeIcon className='fa-spin' icon={faTimes}/>
+      refreshIcon = <button className='btn btn-link text-muted m-0 p-0' onClick={this.refresh.bind(this)}>
+        <FontAwesomeIcon className='fa-spin' icon={faSync}/>
       </button>;
     }
 
@@ -124,10 +124,11 @@ class GithubCard extends React.Component {
                 {title}
               </Col>
               <Col className="col-2 text-right">
-                <button className='btn btn-link text-muted m-0 p-0' onClick={this.refresh.bind(this)}>
-                  <FontAwesomeIcon icon={faSync}/>
-                </button>
                 {refreshIcon}
+                <button className='btn btn-link text-muted ml-2 m-0 p-0' onClick={this.removeRepo.bind(this)}>
+                  <FontAwesomeIcon icon={faTimes}/>
+                </button>
+                ;
               </Col>
             </Row>
           </CardTitle>
