@@ -128,7 +128,6 @@ class GithubCard extends React.Component {
                 <button className='btn btn-link text-muted ml-2 m-0 p-0' onClick={this.removeRepo.bind(this)}>
                   <FontAwesomeIcon icon={faTimes}/>
                 </button>
-                ;
               </Col>
             </Row>
           </CardTitle>
