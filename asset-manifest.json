@@ -1,15 +1,15 @@
 {
-  "main.js": "/github-pr-viewer/static/js/main.f7a6db92.chunk.js",
-  "main.js.map": "/github-pr-viewer/static/js/main.f7a6db92.chunk.js.map",
+  "main.js": "/github-pr-viewer/static/js/main.6ea793bf.chunk.js",
+  "main.js.map": "/github-pr-viewer/static/js/main.6ea793bf.chunk.js.map",
   "static/css/1.6fedd9ff.chunk.css": "/github-pr-viewer/static/css/1.6fedd9ff.chunk.css",
   "static/js/1.f5bdd041.chunk.js": "/github-pr-viewer/static/js/1.f5bdd041.chunk.js",
   "static/js/1.f5bdd041.chunk.js.map": "/github-pr-viewer/static/js/1.f5bdd041.chunk.js.map",
   "runtime~main.js": "/github-pr-viewer/static/js/runtime~main.8bfc73fe.js",
   "runtime~main.js.map": "/github-pr-viewer/static/js/runtime~main.8bfc73fe.js.map",
-  "static/media/mdb.css": "/github-pr-viewer/static/media/Roboto-Bold.e31fcf18.ttf",
+  "static/media/mdb.css": "/github-pr-viewer/static/media/Roboto-Thin.954bbdeb.woff2",
   "static/media/font-awesome.min.css": "/github-pr-viewer/static/media/fontawesome-webfont.674f50d2.eot",
   "static/css/1.6fedd9ff.chunk.css.map": "/github-pr-viewer/static/css/1.6fedd9ff.chunk.css.map",
   "index.html": "/github-pr-viewer/index.html",
-  "precache-manifest.caa34fcab53763d3427f14773250f46e.js": "/github-pr-viewer/precache-manifest.caa34fcab53763d3427f14773250f46e.js",
+  "precache-manifest.dc887a3c239cf4b75e7844c45958a319.js": "/github-pr-viewer/precache-manifest.dc887a3c239cf4b75e7844c45958a319.js",
   "service-worker.js": "/github-pr-viewer/service-worker.js"
 }
