@@ -36,7 +36,7 @@ class AppNavbar extends React.Component {
         <Collapse isOpen={this.state.collapse} navbar>
           <NavbarNav left>
             <NavItem>
-              <NavLink to="/repos">Select Repositories</NavLink>
+              <NavLink to="repos">Select Repositories</NavLink>
             </NavItem>
           </NavbarNav>
           <NavbarNav right>
